@@ -1,0 +1,12 @@
+% include("bootstrap_links.html")
+<% 
+  from bottle import url
+  import logging
+  welcome_url=url("/demo/welcome")
+%>
+<h4 class="bg-success">Welcome to demo</h4>
+
+<form method=post>
+% include("pass_on.html")
+  <button class="btn btn-sm btn-warning" type=submit formtarget=_blank formaction="{{welcome_url}}">see Welcome Message</button>
+</form>

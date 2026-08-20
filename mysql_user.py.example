@@ -1,0 +1,5 @@
+#!/usr/bin/python3
+#def get_link(self,my_host,my_user,my_pass,my_db):
+my_user='xyz'
+my_pass='abc'
+

@@ -1,0 +1,18 @@
+<% 
+  from bottle import url
+  start_url=url("/start")
+%>
+
+% include("bootstrap_links.html")
+
+<form action={{start_url}} method="post"  class="form-group container container-sm mx-auto jumbotron  bg-light m-0 p-3">
+  <div class="container">
+    <label for="uname"><b>Username</b></label>
+    <input class="form-control" type="text" placeholder="Enter Username" name="uname" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input class="form-control" type="password" placeholder="Enter Password" name="psw" required>
+
+    <button class="btn btn-primary" type="submit">Login</button>
+  </div>
+</form>
