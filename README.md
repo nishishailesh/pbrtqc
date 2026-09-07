@@ -1,0 +1,38 @@
+
+
+
+
+'''
+CREATE TABLE `primary_result` (
+  `sample_id` bigint(20) NOT NULL,
+  `examination_id` int(11) NOT NULL,
+  `result` varchar(5000) NOT NULL,
+  `extra` varchar(5000) DEFAULT NULL,
+  `uniq` varchar(100) NOT NULL,
+  PRIMARY KEY (`sample_id`,`examination_id`,`uniq`),
+) 
+
+
+CREATE TABLE `xbarb_primary_result` (
+  `sample_id` bigint(20) NOT NULL,
+  `examination_id` int(11) NOT NULL,
+  `result` varchar(5000) NOT NULL,
+  `extra` varchar(5000) DEFAULT NULL,
+  `uniq` varchar(100) NOT NULL,
+  PRIMARY KEY (`sample_id`,`examination_id`,`uniq`),
+) 
+
+CREATE TABLE `xbarb_xxx_lab_reference_value` (
+  `lab_reference_value_id` int(11) NOT NULL AUTO_INCREMENT,
+  `bin_size` varchar(100) NOT NULL,
+  `examination_id` int(11) NOT NULL,
+  `algorithm` varchar(100) NOT NULL,
+  `start_datetime` datetime DEFAULT NULL,
+  `end_datetime` datetime DEFAULT NULL,
+  `mean` decimal(10,2) NOT NULL,
+  `sd` decimal(10,2) NOT NULL,
+  `manufacturer_data` varchar(100) DEFAULT NULL,
+  `remark` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`lab_reference_value_id`),
+) 
+'''
