@@ -1,5 +1,5 @@
 
-###Information Flow:
+### Information Flow:
 - run calculate_ma.py
 - xbarb_xxx_lab_reference_value is searched for currently valid algorithm data
 - last entry (containing last sample_id used for calculation) from xbarb_primary_result is found for each valid algorithm
@@ -8,7 +8,7 @@
 - result entered in xbarb_primary_result (if number of results are at least bin_size)
 - run the script using crontab to check at repeat intervals
 
-###Tables used
+### Tables used
 ```
 CREATE TABLE `primary_result` (
   `sample_id` bigint(20) NOT NULL,
