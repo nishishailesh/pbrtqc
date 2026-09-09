@@ -8,8 +8,8 @@ import astm_var_clg as astm_var
 
 import pbrtqc 
 
-#logging.basicConfig(filename="/var/log/pbrtqc.log",level=logging.DEBUG)
-logging.basicConfig(filename="/var/log/pbrtqc.log",level=logging.INFO)
+logging.basicConfig(filename="/var/log/pbrtqc.log",level=logging.DEBUG)
+#logging.basicConfig(filename="/var/log/pbrtqc.log",level=logging.INFO)
 
 
 ms=mysql_lis(astm_var.my_host, astm_var.my_user, astm_var.my_pass, astm_var.my_db)

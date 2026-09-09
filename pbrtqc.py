@@ -251,7 +251,7 @@ def get_new_xbarb(xbarb,batch_data):
 
 def get_bin_results(ms,examination_id):
   ####### Find currenly valid reference data #############
-  prepared_sql_ref='select * from xbarb_xxx_lab_reference_value where examination_id=%s'
+  prepared_sql_ref='select * from current_xbarb_xxx_lab_reference_value where examination_id=%s'
   data_tpl=(int(examination_id),)
   logging.debug(data_tpl)
   logging.debug(prepared_sql_ref)
@@ -262,9 +262,9 @@ def get_bin_results(ms,examination_id):
     logging.debug("cur is None. EXITING get_bin_results(ms,examination_id)")
     return false
   current_datetime=datetime.datetime.now()
-  relevent_ref=[each_ref for  each_ref in ref if each_ref['start_datetime']<current_datetime<each_ref['end_datetime']]
+  relevent_ref=ref
   algo_list=[each_ref['algorithm'] for each_ref in relevent_ref]
-  logging.debug("expected algorythms:{}".format(algo_list))
+  logging.debug("expected algorithms:{}".format(algo_list))
   
   ######### For each alogrithm, find last entry ############
   for each_relevent_ref in relevent_ref:
@@ -322,7 +322,7 @@ def get_bin_results(ms,examination_id):
       elif(each_relevent_ref['algorithm'].split("|")[1]=='mean'):
         logging.info("mean algorithm is not implimented yet")    
     else:
-      logging.debug("Better luck next time. total results avilable for calculation:{}<{}".format(total_results,each_relevent_ref['bin_size']))
+      logging.debug("Better luck next time. total results avilable for calculation:{}:{}<{}".format(each_relevent_ref['algorithm'],total_results,each_relevent_ref['bin_size']))
 
   return True
    
