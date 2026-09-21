@@ -8,7 +8,7 @@ import base64
 import struct
 import decimal
 import base64 
-
+import json
 #apt search python3-matplotlib
 #apt install python3-matplotlib
 #import matplotlib.pyplot as plt 
@@ -19,175 +19,9 @@ import datetime
 
 from mysql_lis import mysql_lis
 
-#to ensure that password is not in main sources
-#prototype file is as follows
+#this is just a module.
+#logging is handled by calling file
 
-'''
-example /var/gmcs_config/astm_var.py
-#!/usr/bin/python3.7
-my_user='uuu'
-my_pass='ppp'
-'''
-
-'''
-if anything is redirected, last newline is added.
-To prevent it, use following
-I needed this while outputting relevant data to a file via stdout redirection
-echo -n `./astm_file2mysql_general.py` > x
-'''
-
-#log_filename='/var/log/mylog/all_ma.log'
-#logging.basicConfig(filename=log_filename,level=logging.DEBUG)
-#logging.basicConfig(filename=log_filename,level=logging.debug)
-#logging.debug(sys.argv)
-
-#sys.path.append('/var/gmcs_config')
-#import astm_var
-
-#print(dir(astm_var))
-#n_size=sys.argv[1]
-#o_size=sys.argv[2]
-#ex_id=sys.argv[3]
-#mean_mean=None
-#mean_sd=None
-#finall=None
-#finall_with_result=None
-#Globals for configuration################
-#used by parent class astm_file (so be careful, they are must)
-
-#log=1
-#my_host='127.0.0.1'
-#my_user=astm_var.my_user
-#my_pass=astm_var.my_pass
-#my_db='clg'
-
-
-#if log==0:
-#  logging.disable(logging.CRITICAL)
-
-
-def decode_base64_and_inflate( b64string ):
-    decoded_data = base64.b64decode( b64string )
-    return zlib.decompress( decoded_data , -15)
-
-#not used in this project
-def deflate_and_base64_encode( string_val ):
-    zlibbed_str = zlib.compress( string_val )
-    compressed_string = zlibbed_str[2:-4]
-    return base64.b64encode( compressed_string )
-
-
-def mk_histogram_from_tuple(xy):
-  global mean_mean
-  global mean_sd
-  global n_size
-  global finall
-  global finall_with_result
-  #xy[0] will be used as datgaframe raw lable
-  r=pd.DataFrame(xy[1],xy[0])
-  m=r.rolling(20).mean()
-  md=r.rolling(20).median()
-  #ewma=r.ew
-  
-  rr=r.rename(columns={0:"result"})
-  mm=m.rename(columns={0:"avg(20)"})
-  mdd=md.rename(columns={0:"median(20)"})
-  
-  
-  #final=rr.join(mm)
-  #finall=final.join(mdd)
-  
-  finall=mm.join(mdd)
-  finall_with_result=finall.join(r)
-  finall_with_result.columns = ['mean(20)','median(20)','actual result']
-
-  logging.debug(finall)
-
-  mean_sd=m.std()
-  mean_mean=m.mean()
-  logging.debug('mean_sd={}:mean_mean={}'.format(mean_sd,mean_mean))
-  finall.plot(figsize=(26,8),subplots=False)
-  plt.plot([ xy[3],xy[2] ],[mean_mean,mean_mean])
-  plt.ticklabel_format(style='plain')
-
-  
-  plt.plot([ xy[3],xy[2] ],[mean_mean+mean_sd,mean_mean+mean_sd])
-  plt.plot([ xy[3],xy[2] ],[mean_mean-mean_sd,mean_mean-mean_sd])
-
-  plt.plot([ xy[3],xy[2] ],[mean_mean+mean_sd*2,mean_mean+mean_sd*2])
-  plt.plot([ xy[3],xy[2] ],[mean_mean-mean_sd*2,mean_mean-mean_sd*2])
-
-  plt.plot([ xy[3],xy[2] ],[mean_mean+mean_sd*3,mean_mean+mean_sd*3])
-  plt.plot([ xy[3],xy[2] ],[mean_mean-mean_sd*3,mean_mean-mean_sd*3])
-
-  #plt.yticks (ticks=np.linspace(mean_mean-3*mean_sd,mean_mean+3*mean_sd,7))
-
-  #finall.plot(figsize=(26,17),subplots=True)
-  
-  f = io.BytesIO()
-  plt.savefig(f, format='png')
-  f.seek(0)
-  data=f.read()
-  f.close()
-  plt.close()	#otherwise graphs will be overwritten, in next loop
-  return data
-
-
-def get_results(ms,examination_id,n_size,o_size):
-  prepared_sql='select * from primary_result where examination_id=%s and result>0 order by sample_id desc limit %s offset %s'
-  data_tpl=(int(examination_id),int(n_size),int(o_size))
-  logging.debug(data_tpl)
-  ms.run_query(prepared_sql,data_tpl)
-  logging.debug(prepared_sql)
-  logging.debug(data_tpl)
-  logging.debug("cur:{}".format(ms.cur))
-  r=None
-  if(ms.cur!=None):
-    logging.debug("cur is not None")
-    r=ms.get_all_rows()
-  else:
-    logging.debug("cur is None")
-  return r
-
-
-def get_batch(csv_stream,batch):
-  batch_data=[]
-  i=0
-  while i < batch:
-    row = next(c)
-    try:
-      primary_result=float(row[2])
-      batch_data=batch_data+[primary_result]
-      i=i+1
-    except ValueError:
-      pass    
-  return batch_data
-
-
-
-
-
-def get_bin_from_primary_result(primary_result,bin_size,offset):
-  #(1019872, 5019, '135.19', None, '20260502103845|XL_1000')
-  sample_id=[]
-  examination_id=[]
-  result=[]
-  extra=[]
-  uniq=[]
-  
-  i=0
-  while i < bin_size:
-    try:
-      sample_id=sample_id+[primary_result[i+offset][0]]
-      examination_id=examination_id+[primary_result[i+offset][1]]
-      result=result+[primary_result[i+offset][2]]
-      extra=extra+[primary_result[i+offset][3]]
-      uniq=uniq+[primary_result[i+offset][4]]
-      i=i+1
-    except ValueError:
-      pass    
-  return [sample_id,examination_id,result,extra,uniq]
-  
 def clean_patient_result(data):
   fdata=[]
   for i in data:
@@ -267,6 +101,9 @@ def get_bin_results(ms,examination_id):
   logging.debug("expected algorithms:{}".format(algo_list))
   
   ######### For each alogrithm, find last entry ############
+  # 20250122214139
+  # 2025 01 22 21 41 39 
+  # YYYY MM DD HH MM SS
   for each_relevent_ref in relevent_ref:
     logging.info("===================one reference management:{}".format(each_relevent_ref))    
     prepared_sql_r='select * from xbarb_primary_result where examination_id=%s and uniq=%s order by sample_id desc limit 1'
@@ -283,8 +120,13 @@ def get_bin_results(ms,examination_id):
     logging.debug("equipment_of_ref:{}".format(equipment_of_ref))
     
     
-    prepared_sql_pr='select * from primary_result where examination_id=%s and result REGEXP "^-?[0-9]+\\.[0-9]+$" and sample_id>%s \
-            and substring_index(uniq,"|",-1)=%s limit %s'
+    prepared_sql_pr='select * from primary_result where \
+                      examination_id                  =%s                           and \
+                      result                          REGEXP "^-?[0-9]+\\.[0-9]+$"  and \
+                      substring_index(uniq,"|",1)     >%s                           and \
+                      substring_index(uniq,"|",-1)    =%s                               \
+                      order by substring_index(uniq,"|",1)                              \
+                      limit %s'
     
     data_tpl=(
                 int(examination_id),
@@ -303,18 +145,29 @@ def get_bin_results(ms,examination_id):
       logging.debug("total results avilable for calculation:{}".format(total_results))
       logging.debug("primary results for {}:{}".format(each_relevent_ref['algorithm'],pr_list))
       all_results=[one_data['result'] for one_data in pr_list]
+      #all_sample_id=[one_data['sample_id'] for one_data in pr_list]
+      #logging.debug("primary results sample_id:{}".format(all_sample_id))
       logging.debug("primary results :{}".format(all_results))
+
+      #all_result_pairs=[ [ one_data['sample_id'], one_data['result'], one_data['uniq'] ] for one_data in pr_list]
+      #logging.debug("primary results pairs:{}".format(all_result_pairs))
+      
+      pr_list_json=json.dumps(pr_list)[0:4000]
+      logging.debug("pr_list JSON:{}".format(pr_list_json))
       logging.debug("primary result count:{}".format(total_results))
+      
       if(each_relevent_ref['algorithm'].split("|")[1]=='xbarb'):
         calculated_xbarb=get_new_xbarb(last_entry['result'],all_results)
         logging.info("new xbarb:{}".format(calculated_xbarb))
         logging.info("primary result last sample details:{}".format(pr_list[total_results-1]))
         last_primary_sample_data=pr_list[total_results-1]
-        data_tpl=(last_primary_sample_data['sample_id'],examination_id,calculated_xbarb,last_entry['uniq'])
+        smaple_id_for_xbarb_primary_result=last_primary_sample_data['uniq'].split("|")[0]
+        data_tpl=(smaple_id_for_xbarb_primary_result, examination_id,calculated_xbarb,pr_list_json,last_entry['uniq'])
         logging.info("data_tpl for new xbarb_primary_result is:{}".format(data_tpl))    
         prepared_sql_insert_new_xbarb='insert into xbarb_primary_result \
-                                      (sample_id,examination_id,result,uniq)values \
-                                      (%s,%s,%s,%s)'
+                                      (sample_id,examination_id,result,extra,uniq) \
+                                      values \
+                                      (%s,%s,%s,%s,%s)'
         logging.info('prepared_sql_insert_new_xbarb:{}'.format(prepared_sql_insert_new_xbarb))
         ms.run_query_with_field_names(prepared_sql_insert_new_xbarb,data_tpl)
         logging.info("cur:{}".format(ms.cur))     
@@ -325,28 +178,3 @@ def get_bin_results(ms,examination_id):
       logging.debug("Better luck next time. total results avilable for calculation:{}:{}<{}".format(each_relevent_ref['algorithm'],total_results,each_relevent_ref['bin_size']))
 
   return True
-   
-    
-'''
-ms=my_sql()
-ms.get_link(astm_var.my_host,astm_var.my_user,astm_var.my_pass,astm_var.my_db)
-
-#examination_id=5031
-examination_id=sys.argv[3]
-x,y,h,m=get_results(ms,examination_id,int(n_size),int(o_size))
-logging.debug((x,y,h,m))
-data=mk_histogram_from_tuple((x,y,h,m))
-
-encoded=base64.b64encode(bytes(data))
-
-output=b''
-output=output+b"<h4>Examination ID: "+bytes(   str(examination_id).encode('UTF-8')  )+b"</h4>"
-output=output+b"<img width=1200 src='data:image/png;base64,"+ encoded +b"'/>"
-output=output+b"<h4>mean of mean: "+bytes(str(round(mean_mean[0],2)).encode('UTF-8')) + b"<br>sd of mean:"+bytes(str(round(mean_sd[0],2)).encode('UTF-8'))+b"</h4>"
-output=output+b"<h4>min sample id: "+ bytes(str(m).encode('UTF-8')) + b"<br>max Sample ID:"+bytes(str(h).encode('UTF-8'))+b"</h4>"
-output=output+b"<h3>All data points, in reverse order</h3>"
-#output=output+b"<pre>"+bytes( str(finall.head(100).to_string()).encode('UTF-8'))
-output=output+b"<pre>"+bytes( str(finall_with_result.to_string()).encode('UTF-8'))
-
-sys.stdout.buffer.write(output)
-'''
