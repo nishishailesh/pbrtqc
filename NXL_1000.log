@@ -1,0 +1,1538 @@
+/bin/sh: 1: /root/pbrtqc/check_data_NXL_1000.py: not found
+cat: last_sample_id_NXL_1000: No such file or directory
+
+20260922114740
+/root/pbrtqc/check_data_NXL_1000.sh: line 6: [: -ne: unary operator expected
+cat: last_sample_id_NXL_1000: No such file or directory
+
+20260922114740
+/root/pbrtqc/check_data_NXL_1000.sh: line 6: [: -ne: unary operator expected
+cat: last_sample_id_NXL_1000: No such file or directory
+
+20260922114740
+/root/pbrtqc/check_data_NXL_1000.sh: line 6: [: -ne: unary operator expected
+cat: last_sample_id_NXL_1000: No such file or directory
+
+20260922114740
+/root/pbrtqc/check_data_NXL_1000.sh: line 6: [: -ne: unary operator expected
+cat: last_sample_id_NXL_1000: No such file or directory
+
+20260922114740
+/root/pbrtqc/check_data_NXL_1000.sh: line 6: [: -ne: unary operator expected
+cat: last_sample_id_NXL_1000: No such file or directory
+
+20260922114740
+/root/pbrtqc/check_data_NXL_1000.sh: line 6: [: -ne: unary operator expected
+cat: last_sample_id_NXL_1000: No such file or directory
+
+20260922114740
+/root/pbrtqc/check_data_NXL_1000.sh: line 6: [: -ne: unary operator expected
+cat: last_sample_id_NXL_1000: No such file or directory
+
+20260922114740
+/root/pbrtqc/check_data_NXL_1000.sh: line 6: [: -ne: unary operator expected
+20260922114740
+20260922114740
+20260922114740
+20260922114740
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   106k  19785 --:--:-- --:--:-- --:--:--  152k
+{"id":"wlqySl8DnakM","time":1790068801,"expires":1790112001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922114740
+20260922114740
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   112k  20960 --:--:-- --:--:-- --:--:--  152k
+{"id":"vJoSZCqewKiR","time":1790069101,"expires":1790112301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922114740
+20260922114740
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   108k  20134 --:--:-- --:--:-- --:--:--  152k
+{"id":"gJ4NFMUNHe2g","time":1790069401,"expires":1790112601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922114740
+20260922114740
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   141k  26286 --:--:-- --:--:-- --:--:--  152k
+{"id":"8eiEq6Er5qni","time":1790069701,"expires":1790112901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922114740
+20260922114740
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   174k  32432 --:--:-- --:--:-- --:--:--  152k
+{"id":"WKbCONUst5LB","time":1790070001,"expires":1790113201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922114740
+20260922150938
+20260922150938 4.126532120880434 NXL_1000|xbarb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   204  100   157  100    47   170k  52396 --:--:-- --:--:-- --:--:--  199k
+{"id":"eVXJObACMLrk","time":1790070301,"expires":1790113501,"event":"message","topic":"xbarb","message":"20260922150938\t4.126532120880434\tNXL_1000|xbarb"}
+20260922150938
+20260922150938
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   108k  20134 --:--:-- --:--:-- --:--:--  152k
+{"id":"O7zGythiZupN","time":1790070601,"expires":1790113801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922150938
+20260922150938
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   7025   1277 --:--:-- --:--:-- --:--:--  8666
+{"id":"nf0R4Y9Tq46l","time":1790070901,"expires":1790114101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922150938
+20260922150938
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  91986  16724 --:--:-- --:--:-- --:--:--  152k
+{"id":"0aJ4FCIOLYFl","time":1790071201,"expires":1790114401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922150938
+20260922152644
+20260922152644 4.126839757408219 NXL_1000|xbarb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   204  100   157  100    47   162k  49840 --:--:-- --:--:-- --:--:--  199k
+{"id":"dFYVeuZBxWu8","time":1790071501,"expires":1790114701,"event":"message","topic":"xbarb","message":"20260922152644\t4.126839757408219\tNXL_1000|xbarb"}
+20260922152644
+20260922152644
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   114k  21409 --:--:-- --:--:-- --:--:--  152k
+{"id":"ikEkVDEQRf3a","time":1790071801,"expires":1790115001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922152644
+20260922152644
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   135k  25157 --:--:-- --:--:-- --:--:--  152k
+{"id":"ex93EsaQp2x5","time":1790072101,"expires":1790115301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922152644
+20260922152644
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  97201  17673 --:--:-- --:--:-- --:--:--  152k
+{"id":"CFifgTjMEylu","time":1790072401,"expires":1790115601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922152644
+20260922152644
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   117k  21798 --:--:-- --:--:-- --:--:--  152k
+{"id":"RQnJZGZ1AhCb","time":1790072701,"expires":1790115901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922152644
+20260922152644
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  13231   2405 --:--:-- --:--:-- --:--:-- 17333
+{"id":"5uS4vmCT2aDq","time":1790073002,"expires":1790116202,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922152644
+20260922152644
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   124k  23255 --:--:-- --:--:-- --:--:--  152k
+{"id":"MijUy9vgxY8k","time":1790073301,"expires":1790116501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922152644
+20260922152644
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   106k  19818 --:--:-- --:--:-- --:--:--  152k
+{"id":"Mt38kTZSmOV6","time":1790073601,"expires":1790116801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922152644
+20260922152644
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   115k  21563 --:--:-- --:--:-- --:--:--  152k
+{"id":"HzfDr1jwcfnW","time":1790073901,"expires":1790117101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922152644
+20260922152644
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   112k  20960 --:--:-- --:--:-- --:--:--  152k
+{"id":"vkYTpO6nHzku","time":1790074201,"expires":1790117401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922152644
+20260922152644
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   138k  25751 --:--:-- --:--:-- --:--:--  152k
+{"id":"YkrZo0k7Qvc9","time":1790074501,"expires":1790117701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922152644
+20260922152644
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   111k  20833 --:--:-- --:--:-- --:--:--  152k
+{"id":"zhxmYa7NLyRS","time":1790074801,"expires":1790118001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922152644
+20260922152644
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   136k  25477 --:--:-- --:--:-- --:--:--  152k
+{"id":"3RbMb7jGoX8R","time":1790075101,"expires":1790118301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922152644
+20260922163202
+20260922163202 4.157291287768623 NXL_1000|xbarb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   204  100   157  100    47   132k  40692 --:--:-- --:--:-- --:--:--  199k
+{"id":"ifC6ImTGK0Ka","time":1790075401,"expires":1790118601,"event":"message","topic":"xbarb","message":"20260922163202\t4.157291287768623\tNXL_1000|xbarb"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   122k  22792 --:--:-- --:--:-- --:--:--  152k
+{"id":"WYTcLgDV3jTY","time":1790075701,"expires":1790118901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   131k  24439 --:--:-- --:--:-- --:--:--  152k
+{"id":"jwoXJV4SvOSy","time":1790076002,"expires":1790119202,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   109k  20442 --:--:-- --:--:-- --:--:--  152k
+{"id":"0ZAnYxxVdYNp","time":1790076301,"expires":1790119501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   112k  21015 --:--:-- --:--:-- --:--:--  152k
+{"id":"euZ0qAJwmc4P","time":1790076601,"expires":1790119801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   129k  24193 --:--:-- --:--:-- --:--:--  152k
+{"id":"l2sXFzLagMAk","time":1790076901,"expires":1790120101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  49364   8975 --:--:-- --:--:-- --:--:-- 78000
+{"id":"qmX6XlpxyonM","time":1790077201,"expires":1790120401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   127k  23645 --:--:-- --:--:-- --:--:--  152k
+{"id":"CPsj7fLQ8p4j","time":1790077501,"expires":1790120701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   122k  22792 --:--:-- --:--:-- --:--:--  152k
+{"id":"5SUijj4HO3ea","time":1790077801,"expires":1790121001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   122k  22727 --:--:-- --:--:-- --:--:--  152k
+{"id":"ItTnIxbPkjFf","time":1790078101,"expires":1790121301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   106k  19867 --:--:-- --:--:-- --:--:--  152k
+{"id":"OaDx7361BJ6g","time":1790078401,"expires":1790121601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  88000  16000 --:--:-- --:--:-- --:--:--  152k
+{"id":"4jcibEEOF1Gw","time":1790078701,"expires":1790121901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   107k  19983 --:--:-- --:--:-- --:--:--  152k
+{"id":"ClrbFZxwI3sr","time":1790079001,"expires":1790122201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   133k  24844 --:--:-- --:--:-- --:--:--  152k
+{"id":"jRBsAjSjNply","time":1790079301,"expires":1790122501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   124k  23210 --:--:-- --:--:-- --:--:--  152k
+{"id":"p1YUP02s8zrl","time":1790079601,"expires":1790122801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  85216  15493 --:--:-- --:--:-- --:--:--  152k
+{"id":"l4JzF4CFC29V","time":1790079901,"expires":1790123101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   138k  25778 --:--:-- --:--:-- --:--:--  152k
+{"id":"AALuzr50IVoL","time":1790080201,"expires":1790123401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   122k  22813 --:--:-- --:--:-- --:--:--  152k
+{"id":"VwcNKeuCM8U7","time":1790080501,"expires":1790123701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   116k  21641 --:--:-- --:--:-- --:--:--  152k
+{"id":"hx1NybrSOiK1","time":1790080801,"expires":1790124001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   118k  21998 --:--:-- --:--:-- --:--:--  152k
+{"id":"8XoyjdNtq2Pe","time":1790081101,"expires":1790124301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922163202
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   128k  23856 --:--:-- --:--:-- --:--:--  152k
+{"id":"4BOJEvtvp5hO","time":1790081401,"expires":1790124601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922163202
+20260922181518
+20260922181518 4.253586133393624 NXL_1000|xbarb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   204  100   157  100    47   176k  54022 --:--:-- --:--:-- --:--:--  199k
+{"id":"2cnufxQTbOVh","time":1790081701,"expires":1790124901,"event":"message","topic":"xbarb","message":"20260922181518\t4.253586133393624\tNXL_1000|xbarb"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  92892  16889 --:--:-- --:--:-- --:--:--  152k
+{"id":"RnY00oK3Owsu","time":1790082001,"expires":1790125201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   113k  21220 --:--:-- --:--:-- --:--:--  152k
+{"id":"dWJZ7XxKMWwO","time":1790082301,"expires":1790125501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   108k  20117 --:--:-- --:--:-- --:--:--  152k
+{"id":"e69ytk54e5XS","time":1790082601,"expires":1790125801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  91097  16563 --:--:-- --:--:-- --:--:--  152k
+{"id":"JqdXW32QnxWZ","time":1790082901,"expires":1790126101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   115k  21447 --:--:-- --:--:-- --:--:--  152k
+{"id":"o8BmYqkutXub","time":1790083201,"expires":1790126401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  94623  17204 --:--:-- --:--:-- --:--:--  152k
+{"id":"z5I9hjw74tt0","time":1790083501,"expires":1790126701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   116k  21621 --:--:-- --:--:-- --:--:--  152k
+{"id":"syE4jEV4Ek4b","time":1790083801,"expires":1790127001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   126k  23483 --:--:-- --:--:-- --:--:--  152k
+{"id":"E8qSOZunnOUC","time":1790084101,"expires":1790127301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   116k  21758 --:--:-- --:--:-- --:--:--  152k
+{"id":"KaTHAooDzGkd","time":1790084401,"expires":1790127601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   114k  21409 --:--:-- --:--:-- --:--:--  152k
+{"id":"30htovNzIYHI","time":1790084701,"expires":1790127901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   122k  22857 --:--:-- --:--:-- --:--:--  152k
+{"id":"uUh0Hnw0ioNA","time":1790085001,"expires":1790128201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   124k  23255 --:--:-- --:--:-- --:--:--  152k
+{"id":"fbAMBkbbEmUc","time":1790085301,"expires":1790128501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   111k  20743 --:--:-- --:--:-- --:--:--  152k
+{"id":"GZbbEQj1pB5k","time":1790085601,"expires":1790128801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   120k  22429 --:--:-- --:--:-- --:--:--  152k
+{"id":"AbpPJPHJdUWI","time":1790085901,"expires":1790129101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   7349   1336 --:--:-- --:--:-- --:--:--  9176
+{"id":"nl4PrfNccpfY","time":1790086201,"expires":1790129401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   121k  22556 --:--:-- --:--:-- --:--:--  152k
+{"id":"Bala1AbRE29s","time":1790086501,"expires":1790129701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   113k  21145 --:--:-- --:--:-- --:--:--  152k
+{"id":"x4yjdg2f6tQN","time":1790086801,"expires":1790130001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922181518
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   124k  23210 --:--:-- --:--:-- --:--:--  152k
+{"id":"Uoyf0R89goHv","time":1790087102,"expires":1790130302,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922181518
+20260922195424
+20260922195424 4.225419711245462 NXL_1000|xbarb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   204  100   157  100    47   161k  49421 --:--:-- --:--:-- --:--:--  199k
+{"id":"jsIFGeSkc9oI","time":1790087401,"expires":1790130601,"event":"message","topic":"xbarb","message":"20260922195424\t4.225419711245462\tNXL_1000|xbarb"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  99773  18140 --:--:-- --:--:-- --:--:--  152k
+{"id":"3ySffgF9hVdO","time":1790087702,"expires":1790130902,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   116k  21621 --:--:-- --:--:-- --:--:--  152k
+{"id":"BVSgPdzs9xqP","time":1790088001,"expires":1790131201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   152k  28368 --:--:-- --:--:-- --:--:--  152k
+{"id":"S4Yw7t4cbNRR","time":1790088301,"expires":1790131501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24    689    125 --:--:-- --:--:-- --:--:--   816
+{"id":"ySSNvbdd8TRh","time":1790088602,"expires":1790131802,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  46544   8462 --:--:-- --:--:-- --:--:-- 78000
+{"id":"5if7L69onFEJ","time":1790088901,"expires":1790132101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24    744    135 --:--:-- --:--:-- --:--:--   876
+{"id":"pxyztVyeXWa8","time":1790089202,"expires":1790132402,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   101k  18912 --:--:-- --:--:-- --:--:--  152k
+{"id":"DePeJGHZ1iOT","time":1790089501,"expires":1790132701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   101k  18838 --:--:-- --:--:-- --:--:--  152k
+{"id":"uW03WMpPlla7","time":1790089801,"expires":1790133001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24    254     46 --:--:-- --:--:-- --:--:--   301
+{"id":"VYcEMQvLrHJX","time":1790090102,"expires":1790133302,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  74957  13628 --:--:-- --:--:-- --:--:--  152k
+{"id":"aECoquCD2AO6","time":1790090404,"expires":1790133604,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   142k  26460 --:--:-- --:--:-- --:--:--  152k
+{"id":"UVnj2SgwqWsy","time":1790090701,"expires":1790133901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   135k  25210 --:--:-- --:--:-- --:--:--  152k
+{"id":"x7oXT2C5rZiJ","time":1790091004,"expires":1790134204,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   2295    417 --:--:-- --:--:-- --:--:--  2736
+{"id":"sZk1iFnVhCCY","time":1790091306,"expires":1790134506,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    24    0     0  100    24      0    119 --:--:-- --:--:-- --:--:--   119100   156  100   132  100    24    467     85 --:--:-- --:--:-- --:--:--   551
+{"id":"AI9Pd7oyTwcs","time":1790091601,"expires":1790134801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   110k  20636 --:--:-- --:--:-- --:--:--  152k
+{"id":"QtIIJ9ICdqby","time":1790091901,"expires":1790135101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   103k  19261 --:--:-- --:--:-- --:--:--  152k
+{"id":"SRF8qr12dmIL","time":1790092201,"expires":1790135401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   110k  20530 --:--:-- --:--:-- --:--:--  152k
+{"id":"4NJAESHuh7Fn","time":1790092501,"expires":1790135701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   104k  19433 --:--:-- --:--:-- --:--:--  152k
+{"id":"P9Xht9TSsfsr","time":1790092801,"expires":1790136001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   119k  22263 --:--:-- --:--:-- --:--:--  152k
+{"id":"bZVMkDT7OgRK","time":1790093102,"expires":1790136302,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   121k  22641 --:--:-- --:--:-- --:--:--  152k
+{"id":"H3T5zRebmf0s","time":1790093401,"expires":1790136601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  69254  12591 --:--:-- --:--:-- --:--:--  152k
+{"id":"TtQwPHUONj27","time":1790093702,"expires":1790136902,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922195424
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   118k  22079 --:--:-- --:--:-- --:--:--  152k
+{"id":"6RAICMgb2eJb","time":1790094001,"expires":1790137201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922195424
+20260922214800
+20260922214800 4.208135434354216 NXL_1000|xbarb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   204  100   157  100    47   167k  51366 --:--:-- --:--:-- --:--:--  199k
+{"id":"I17Z0ShvwygS","time":1790094301,"expires":1790137501,"event":"message","topic":"xbarb","message":"20260922214800\t4.208135434354216\tNXL_1000|xbarb"}
+20260922214800
+20260922214800
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   116k  21660 --:--:-- --:--:-- --:--:--  152k
+{"id":"wqRA21Yoe7rH","time":1790094602,"expires":1790137802,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922214800
+20260922214800
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   102k  19047 --:--:-- --:--:-- --:--:--  152k
+{"id":"ZmUBy5jzSkMV","time":1790094901,"expires":1790138101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922214800
+20260922214800
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  94623  17204 --:--:-- --:--:-- --:--:--  152k
+{"id":"Slsihbc5XA7A","time":1790095201,"expires":1790138401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922214800
+20260922220533
+20260922220533 4.169200761955878 NXL_1000|xbarb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   204  100   157  100    47   155k  47715 --:--:-- --:--:-- --:--:--  199k
+{"id":"SFCw32cfe2Ft","time":1790095501,"expires":1790138701,"event":"message","topic":"xbarb","message":"20260922220533\t4.169200761955878\tNXL_1000|xbarb"}
+20260922220533
+20260922220533
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   101k  18942 --:--:-- --:--:-- --:--:--  152k
+{"id":"8uxMLkZaXgzh","time":1790095801,"expires":1790139001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922220533
+20260922220533
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  99173  18031 --:--:-- --:--:-- --:--:--  152k
+{"id":"Wi6mxqn7G2CG","time":1790096101,"expires":1790139301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922220533
+20260922220533
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   131k  24489 --:--:-- --:--:-- --:--:--  152k
+{"id":"paNIV7VeIUnK","time":1790096401,"expires":1790139601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922220533
+20260922220533
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   131k  24564 --:--:-- --:--:-- --:--:--  152k
+{"id":"yU3pSwns9XQf","time":1790096701,"expires":1790139901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922220533
+20260922220533
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   102k  19047 --:--:-- --:--:-- --:--:--  152k
+{"id":"Oo392lx0JqGy","time":1790097001,"expires":1790140201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922220533
+20260922223852
+20260922223852 4.1594189946765665 NXL_1000|xbarb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   206  100   158  100    48   157k  49079 --:--:-- --:--:-- --:--:--  201k
+{"id":"Wbz1yYJFdRH9","time":1790097301,"expires":1790140501,"event":"message","topic":"xbarb","message":"20260922223852\t4.1594189946765665\tNXL_1000|xbarb"}
+20260922223852
+20260922223852
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   104k  19386 --:--:-- --:--:-- --:--:--  152k
+{"id":"nG7grm6efqVn","time":1790097601,"expires":1790140801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922223852
+20260922223852
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   107k  20016 --:--:-- --:--:-- --:--:--  152k
+{"id":"U0hsnfI2g9aU","time":1790097901,"expires":1790141101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922223852
+20260922223852
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  94827  17241 --:--:-- --:--:-- --:--:--  152k
+{"id":"WnAxykZMaoSL","time":1790098201,"expires":1790141401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922223852
+20260922223852
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24    98k  18306 --:--:-- --:--:-- --:--:--  152k
+{"id":"dC8N6pWgiSNq","time":1790098501,"expires":1790141701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922223852
+20260922223852
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  15733   2860 --:--:-- --:--:-- --:--:-- 19500
+{"id":"cJkp3wj0WQAj","time":1790098801,"expires":1790142001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922223852
+20260922223852
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   119k  22325 --:--:-- --:--:-- --:--:--  152k
+{"id":"wcot8VTql4FO","time":1790099101,"expires":1790142301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922223852
+20260922223852
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   101k  18808 --:--:-- --:--:-- --:--:--  152k
+{"id":"rykRp1ISNCrW","time":1790099401,"expires":1790142601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922223852
+20260922223852
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   130k  24316 --:--:-- --:--:-- --:--:--  152k
+{"id":"pL02P1Tp4WDA","time":1790099701,"expires":1790142901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922223852
+20260922223852
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   107k  20016 --:--:-- --:--:-- --:--:--  152k
+{"id":"v8NwKntVEcTe","time":1790100001,"expires":1790143201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922223852
+20260922232630
+20260922232630 4.1593629514593085 NXL_1000|xbarb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   206  100   158  100    48   116k  36391 --:--:-- --:--:-- --:--:--  201k
+{"id":"orWs9J8jatLy","time":1790100301,"expires":1790143501,"event":"message","topic":"xbarb","message":"20260922232630\t4.1593629514593085\tNXL_1000|xbarb"}
+20260922232630
+20260922232630
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  96916  17621 --:--:-- --:--:-- --:--:--  152k
+{"id":"PGaPC0BnV8OW","time":1790100602,"expires":1790143802,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922232630
+20260922232630
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24    99k  18575 --:--:-- --:--:-- --:--:--  152k
+{"id":"TNfp4vR0xg1L","time":1790100901,"expires":1790144101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922232630
+20260922232630
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   109k  20408 --:--:-- --:--:-- --:--:--  152k
+{"id":"aJ4P63wTG3d7","time":1790101201,"expires":1790144401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922232630
+20260922232630
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  96491  17543 --:--:-- --:--:-- --:--:--  152k
+{"id":"dkcGjh7u5pUr","time":1790101501,"expires":1790144701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922232630
+20260922232630
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   109k  20338 --:--:-- --:--:-- --:--:--  152k
+{"id":"75jz9LHopA09","time":1790101801,"expires":1790145001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922232630
+20260922232630
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   119k  22201 --:--:-- --:--:-- --:--:--  152k
+{"id":"rdnS4eSBHXNK","time":1790102101,"expires":1790145301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260922232630
+20260923000445
+20260923000445 4.147740124532499 NXL_1000|xbarb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   204  100   157  100    47   152k  46626 --:--:-- --:--:-- --:--:--  199k
+{"id":"mpj8LKytUnqR","time":1790102401,"expires":1790145601,"event":"message","topic":"xbarb","message":"20260923000445\t4.147740124532499\tNXL_1000|xbarb"}
+20260923000445
+20260923000445
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24    99k  18590 --:--:-- --:--:-- --:--:--  152k
+{"id":"nE9ee92a05ie","time":1790102701,"expires":1790145901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923000445
+20260923000445
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   124k  23210 --:--:-- --:--:-- --:--:--  152k
+{"id":"RuNTCGChpEJV","time":1790103001,"expires":1790146201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923000445
+20260923000445
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  93418  16985 --:--:-- --:--:-- --:--:--  152k
+{"id":"98ia2CiAmmso","time":1790103301,"expires":1790146501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923000445
+20260923000445
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  93617  17021 --:--:-- --:--:-- --:--:--  152k
+{"id":"oNu6m3Gziwa1","time":1790103601,"expires":1790146801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923000445
+20260923000445
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   127k  23738 --:--:-- --:--:-- --:--:--  152k
+{"id":"Eo88ZQPxa19t","time":1790103901,"expires":1790147101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923000445
+20260923000445
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   135k  25289 --:--:-- --:--:-- --:--:--  152k
+{"id":"F7RkRlvWcFqJ","time":1790104202,"expires":1790147402,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923000445
+20260923003902
+20260923003902 4.099144654016261 NXL_1000|xbarb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   204  100   157  100    47   137k  42152 --:--:-- --:--:-- --:--:--  199k
+{"id":"hg1G5pDcUyUB","time":1790104501,"expires":1790147701,"event":"message","topic":"xbarb","message":"20260923003902\t4.099144654016261\tNXL_1000|xbarb"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   7968   1448 --:--:-- --:--:-- --:--:--  9750
+{"id":"8P9s2OCT7DzL","time":1790104801,"expires":1790148001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   118k  21978 --:--:-- --:--:-- --:--:--  152k
+{"id":"FwmRrJTfahZb","time":1790105101,"expires":1790148301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   6234   1133 --:--:-- --:--:-- --:--:--  7428
+{"id":"RjGWYB46ouAD","time":1790105401,"expires":1790148601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   107k  20083 --:--:-- --:--:-- --:--:--  152k
+{"id":"KbQam65DAt0B","time":1790105701,"expires":1790148901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   105k  19559 --:--:-- --:--:-- --:--:--  152k
+{"id":"azAlWMlbJzyX","time":1790106001,"expires":1790149201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   121k  22556 --:--:-- --:--:-- --:--:--  152k
+{"id":"hmatr14IONmg","time":1790106301,"expires":1790149501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   101k  18823 --:--:-- --:--:-- --:--:--  152k
+{"id":"0dnOwAYyZYi6","time":1790106601,"expires":1790149801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  97995  17817 --:--:-- --:--:-- --:--:--  152k
+{"id":"pKltqb6mU0aT","time":1790106901,"expires":1790150101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  99547  18099 --:--:-- --:--:-- --:--:--  152k
+{"id":"MwUL7cvxgX3U","time":1790107201,"expires":1790150401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   116k  21758 --:--:-- --:--:-- --:--:--  152k
+{"id":"xJFGL1yM70TP","time":1790107501,"expires":1790150701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   108k  20202 --:--:-- --:--:-- --:--:--  152k
+{"id":"yvfIBInOhTBF","time":1790107801,"expires":1790151001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   110k  20600 --:--:-- --:--:-- --:--:--  152k
+{"id":"RoqQH7Qu0vei","time":1790108101,"expires":1790151301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  34837   6334 --:--:-- --:--:-- --:--:-- 52000
+{"id":"WswEJq0YyAsm","time":1790108401,"expires":1790151601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  94084  17106 --:--:-- --:--:-- --:--:--  152k
+{"id":"atW7FPX9WYZ0","time":1790108702,"expires":1790151902,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   125k  23346 --:--:-- --:--:-- --:--:--  152k
+{"id":"fwQqSpgHu5uI","time":1790109001,"expires":1790152201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   128k  23928 --:--:-- --:--:-- --:--:--  152k
+{"id":"oTcsM4AXW4nj","time":1790109301,"expires":1790152501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   109k  20390 --:--:-- --:--:-- --:--:--  152k
+{"id":"9gqrznSCsMdq","time":1790109601,"expires":1790152801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  94084  17106 --:--:-- --:--:-- --:--:--  152k
+{"id":"mZoEtYeSrkoA","time":1790109901,"expires":1790153101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   106k  19801 --:--:-- --:--:-- --:--:--  152k
+{"id":"FINqfRtFgaOX","time":1790110201,"expires":1790153401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923003902
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  87186  15852 --:--:-- --:--:-- --:--:--  152k
+{"id":"KHCzwf66hVyw","time":1790110501,"expires":1790153701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923003902
+20260923022151
+20260923022151 4.096962902886977 NXL_1000|xbarb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   204  100   157  100    47   108k  33309 --:--:-- --:--:-- --:--:--  199k
+{"id":"gLs1a2dedIIy","time":1790110801,"expires":1790154001,"event":"message","topic":"xbarb","message":"20260923022151\t4.096962902886977\tNXL_1000|xbarb"}
+20260923022151
+20260923022151
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  99099  18018 --:--:-- --:--:-- --:--:--  152k
+{"id":"qf5V5YE0OnXy","time":1790111101,"expires":1790154301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923022151
+20260923022151
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   101k  18942 --:--:-- --:--:-- --:--:--  152k
+{"id":"oZUjZCWZjM9m","time":1790111401,"expires":1790154601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923022151
+20260923022151
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  99848  18154 --:--:-- --:--:-- --:--:--  152k
+{"id":"AbKvldfPBmmO","time":1790111701,"expires":1790154901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923022151
+20260923022151
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   118k  22018 --:--:-- --:--:-- --:--:--  152k
+{"id":"KDWtRwQ9oHKp","time":1790112001,"expires":1790155201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923022151
+20260923022151
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  95930  17441 --:--:-- --:--:-- --:--:--  152k
+{"id":"cq53RRlwiAAO","time":1790112301,"expires":1790155501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923022151
+20260923022151
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   102k  19062 --:--:-- --:--:-- --:--:--  152k
+{"id":"6wkhR0wgQ6Wa","time":1790112601,"expires":1790155801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923022151
+20260923025738
+20260923025738 3.9879540416327686 NXL_1000|xbarb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   206  100   158  100    48   147k  45977 --:--:-- --:--:-- --:--:--  201k
+{"id":"ptBlzw6cCNnK","time":1790112901,"expires":1790156101,"event":"message","topic":"xbarb","message":"20260923025738\t3.9879540416327686\tNXL_1000|xbarb"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   111k  20779 --:--:-- --:--:-- --:--:--  152k
+{"id":"fV04LyBFsNxe","time":1790113201,"expires":1790156401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  97777  17777 --:--:-- --:--:-- --:--:--  152k
+{"id":"KtaDn5u9uE7E","time":1790113501,"expires":1790156701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   113k  21052 --:--:-- --:--:-- --:--:--  152k
+{"id":"B9ppkJ0pEGcB","time":1790113801,"expires":1790157001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   113k  21201 --:--:-- --:--:-- --:--:--  152k
+{"id":"1cXeLO3gBSS0","time":1790114101,"expires":1790157301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  95169  17303 --:--:-- --:--:-- --:--:--  152k
+{"id":"xYy6xP3VnLAY","time":1790114401,"expires":1790157601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   112k  20997 --:--:-- --:--:-- --:--:--  152k
+{"id":"U7xkgprMSXkK","time":1790114701,"expires":1790157901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   100k  18633 --:--:-- --:--:-- --:--:--  152k
+{"id":"JrHLDKgOm1Bd","time":1790115001,"expires":1790158201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   117k  21937 --:--:-- --:--:-- --:--:--  152k
+{"id":"PKxiRSnL6TJ5","time":1790115301,"expires":1790158501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   109k  20425 --:--:-- --:--:-- --:--:--  152k
+{"id":"2zSPN7n0EI7L","time":1790115601,"expires":1790158801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   126k  23506 --:--:-- --:--:-- --:--:--  152k
+{"id":"GUkKOFxjzPk5","time":1790115901,"expires":1790159101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24    98k  18278 --:--:-- --:--:-- --:--:--  152k
+{"id":"IS5wMYETvih1","time":1790116201,"expires":1790159401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  98360  17883 --:--:-- --:--:-- --:--:--  152k
+{"id":"VQ0OYWiXnNes","time":1790116501,"expires":1790159701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24    98k  18278 --:--:-- --:--:-- --:--:--  152k
+{"id":"aXJuJ5wS6tjt","time":1790116801,"expires":1790160001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   106k  19884 --:--:-- --:--:-- --:--:--  152k
+{"id":"9RCcUlSW9jFB","time":1790117101,"expires":1790160301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   110k  20583 --:--:-- --:--:-- --:--:--  152k
+{"id":"T9123OAZ5aWj","time":1790117401,"expires":1790160601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  93816  17057 --:--:-- --:--:-- --:--:--  152k
+{"id":"ek5IkI845iXO","time":1790117701,"expires":1790160901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   104k  19480 --:--:-- --:--:-- --:--:--  152k
+{"id":"eMoKM5Kzo0cr","time":1790118001,"expires":1790161201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   130k  24365 --:--:-- --:--:-- --:--:--  152k
+{"id":"41u07AnlelPh","time":1790118301,"expires":1790161501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   119k  22284 --:--:-- --:--:-- --:--:--  152k
+{"id":"IRai9mamPZ3J","time":1790118601,"expires":1790161801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   123k  22944 --:--:-- --:--:-- --:--:--  152k
+{"id":"Mr0tURTcnqnJ","time":1790118901,"expires":1790162101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  85216  15493 --:--:-- --:--:-- --:--:--  152k
+{"id":"tAP1klOnatrh","time":1790119201,"expires":1790162401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   101k  18838 --:--:-- --:--:-- --:--:--  152k
+{"id":"6bX21Fjetvkf","time":1790119501,"expires":1790162701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   108k  20151 --:--:-- --:--:-- --:--:--  152k
+{"id":"zme8LdZMntL8","time":1790119801,"expires":1790163001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24    98k  18250 --:--:-- --:--:-- --:--:--  152k
+{"id":"CHqycmRqpu13","time":1790120101,"expires":1790163301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   117k  21798 --:--:-- --:--:-- --:--:--  152k
+{"id":"5yipl4ehQ2aj","time":1790120401,"expires":1790163601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  90225  16404 --:--:-- --:--:-- --:--:--  152k
+{"id":"8yV0MKlSv5w9","time":1790120701,"expires":1790163901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  83175  15122 --:--:-- --:--:-- --:--:--  152k
+{"id":"1Xz7RWT76DKE","time":1790121001,"expires":1790164201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   125k  23346 --:--:-- --:--:-- --:--:--  152k
+{"id":"xbWYj0khj2qp","time":1790121301,"expires":1790164501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  96209  17492 --:--:-- --:--:-- --:--:--  152k
+{"id":"WZMK9qHMLPCx","time":1790121601,"expires":1790164801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24    98k  18376 --:--:-- --:--:-- --:--:--  152k
+{"id":"MqmcbheJUHdp","time":1790121901,"expires":1790165101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   100k  18677 --:--:-- --:--:-- --:--:--  152k
+{"id":"yRZbjUl4IwjN","time":1790122201,"expires":1790165401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   122k  22835 --:--:-- --:--:-- --:--:--  152k
+{"id":"zyhwwxzu93uD","time":1790122501,"expires":1790165701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   145k  27027 --:--:-- --:--:-- --:--:--  152k
+{"id":"8SJPHK71WVst","time":1790122801,"expires":1790166001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   119k  22304 --:--:-- --:--:-- --:--:--  152k
+{"id":"QRzYUA7Qtbrr","time":1790123101,"expires":1790166301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24    98k  18376 --:--:-- --:--:-- --:--:--  152k
+{"id":"rpVCXigbwECH","time":1790123401,"expires":1790166601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   105k  19720 --:--:-- --:--:-- --:--:--  152k
+{"id":"ogmIp6mYJhK5","time":1790123701,"expires":1790166901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   124k  23188 --:--:-- --:--:-- --:--:--  152k
+{"id":"RfkdiaN67KNT","time":1790124001,"expires":1790167201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923025738
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24    99k  18518 --:--:-- --:--:-- --:--:--  152k
+{"id":"It2BQFafpQ8U","time":1790124301,"expires":1790167501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923025738
+20260923061438
+20260923061438 4.012269734951499 NXL_1000|xbarb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   204  100   157  100    47   117k  36070 --:--:-- --:--:-- --:--:--  199k
+{"id":"Gb6U8t9AQ7fJ","time":1790124601,"expires":1790167801,"event":"message","topic":"xbarb","message":"20260923061438\t4.012269734951499\tNXL_1000|xbarb"}
+20260923061438
+20260923061438
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  95032  17278 --:--:-- --:--:-- --:--:--  152k
+{"id":"99w60s1lTzom","time":1790124901,"expires":1790168101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923061438
+20260923061438
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  92178  16759 --:--:-- --:--:-- --:--:--  152k
+{"id":"Zz2sskXwYz8Z","time":1790125201,"expires":1790168401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923061438
+20260923061438
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   107k  20033 --:--:-- --:--:-- --:--:--  152k
+{"id":"LnfU49LreLds","time":1790125501,"expires":1790168701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923061438
+20260923061438
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   101k  18957 --:--:-- --:--:-- --:--:--  152k
+{"id":"mmAsaclyxsvV","time":1790125801,"expires":1790169001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923061438
+20260923061438
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  97777  17777 --:--:-- --:--:-- --:--:--  152k
+{"id":"RgmHche7179P","time":1790126101,"expires":1790169301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923061438
+20260923061438
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  81936  14897 --:--:-- --:--:-- --:--:--  152k
+{"id":"6YajJaXHNr29","time":1790126401,"expires":1790169601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923061438
+20260923061438
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  96420  17531 --:--:-- --:--:-- --:--:--  152k
+{"id":"Yfb9lKc7LAbJ","time":1790126701,"expires":1790169901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923061438
+20260923061438
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   123k  22944 --:--:-- --:--:-- --:--:--  152k
+{"id":"kDQZtuPoQs0u","time":1790127001,"expires":1790170201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923061438
+20260923065817
+20260923065817 3.9643134927590253 NXL_1000|xbarb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   206  100   158  100    48   146k  45540 --:--:-- --:--:-- --:--:--  201k
+{"id":"X0mUmqAke9bs","time":1790127301,"expires":1790170501,"event":"message","topic":"xbarb","message":"20260923065817\t3.9643134927590253\tNXL_1000|xbarb"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  96209  17492 --:--:-- --:--:-- --:--:--  152k
+{"id":"DrXClllPIVgT","time":1790127601,"expires":1790170801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  97560  17738 --:--:-- --:--:-- --:--:--  152k
+{"id":"TjT2PhWxUx9Z","time":1790127901,"expires":1790171101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   119k  22160 --:--:-- --:--:-- --:--:--  152k
+{"id":"FuWl8U0E9ubo","time":1790128201,"expires":1790171401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   134k  24973 --:--:-- --:--:-- --:--:--  152k
+{"id":"zbaHxMuYP3VI","time":1790128501,"expires":1790171701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  81733  14860 --:--:-- --:--:-- --:--:--  152k
+{"id":"xZF1Rk6ZDIuk","time":1790128801,"expires":1790172001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   105k  19591 --:--:-- --:--:-- --:--:--  152k
+{"id":"cup3liRgg8Yp","time":1790129101,"expires":1790172301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  80340  14607 --:--:-- --:--:-- --:--:--  152k
+{"id":"MOOhjJc8zox6","time":1790129401,"expires":1790172601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  82038  14916 --:--:-- --:--:-- --:--:--  152k
+{"id":"uxb8fFLtvUSO","time":1790129701,"expires":1790172901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   109k  20390 --:--:-- --:--:-- --:--:--  152k
+{"id":"QT31tllshVD3","time":1790130001,"expires":1790173201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  96632  17569 --:--:-- --:--:-- --:--:--  152k
+{"id":"GN5Fcb1mhCSe","time":1790130301,"expires":1790173501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  96774  17595 --:--:-- --:--:-- --:--:--  152k
+{"id":"78RJ5pYoyUJR","time":1790130601,"expires":1790173801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24    97k  18237 --:--:-- --:--:-- --:--:--  152k
+{"id":"TwvgsaMdu7H7","time":1790130901,"expires":1790174101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   117k  21857 --:--:-- --:--:-- --:--:--  152k
+{"id":"ylDdlnsYKx5Y","time":1790131201,"expires":1790174401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  70967  12903 --:--:-- --:--:-- --:--:--  152k
+{"id":"2aAIPcI8IppC","time":1790131502,"expires":1790174702,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  77373  14067 --:--:-- --:--:-- --:--:--  152k
+{"id":"sXeToWjQJr9S","time":1790131801,"expires":1790175001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  82551  15009 --:--:-- --:--:-- --:--:--  152k
+{"id":"MNoWDf28lzFE","time":1790132102,"expires":1790175302,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  94353  17155 --:--:-- --:--:-- --:--:--  152k
+{"id":"qy21CGVbuBW0","time":1790132404,"expires":1790175604,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   1249    227 --:--:-- --:--:-- --:--:--  1485
+{"id":"BF6q8OvEzmMY","time":1790132702,"expires":1790175902,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  83809  15238 --:--:-- --:--:-- --:--:--  152k
+{"id":"BCEJopr2ZdGf","time":1790133001,"expires":1790176201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   113k  21145 --:--:-- --:--:-- --:--:--  152k
+{"id":"UsfuqTlDts2h","time":1790133301,"expires":1790176501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   116k  21778 --:--:-- --:--:-- --:--:--  152k
+{"id":"on9rj5IXNuiV","time":1790133601,"expires":1790176801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  88058  16010 --:--:-- --:--:-- --:--:--  152k
+{"id":"EyuQaIKyMXFS","time":1790133902,"expires":1790177102,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   112k  21034 --:--:-- --:--:-- --:--:--  152k
+{"id":"OzVN0zimZNZq","time":1790134201,"expires":1790177401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   105k  19704 --:--:-- --:--:-- --:--:--  152k
+{"id":"Z26nzIzsr0Ox","time":1790134501,"expires":1790177701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   1245    226 --:--:-- --:--:-- --:--:--  1485
+{"id":"xbxb05EdmQOt","time":1790134801,"expires":1790178001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   112k  20979 --:--:-- --:--:-- --:--:--  152k
+{"id":"Wfuw4IwGu16m","time":1790135101,"expires":1790178301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  96916  17621 --:--:-- --:--:-- --:--:--  152k
+{"id":"qipkxBKGaAi5","time":1790135401,"expires":1790178601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  91794  16689 --:--:-- --:--:-- --:--:--  152k
+{"id":"6v0noDet8Liu","time":1790135701,"expires":1790178901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  99322  18058 --:--:-- --:--:-- --:--:--  152k
+{"id":"grO4hVAR2i2O","time":1790136001,"expires":1790179201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  96987  17634 --:--:-- --:--:-- --:--:--  152k
+{"id":"iuCypVl29Hqe","time":1790136301,"expires":1790179501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24    99k  18433 --:--:-- --:--:-- --:--:--  152k
+{"id":"TOqwNEH4swP2","time":1790136601,"expires":1790179801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  79422  14440 --:--:-- --:--:-- --:--:--  152k
+{"id":"PHC99zPaE8cm","time":1790136901,"expires":1790180101,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   101k  18927 --:--:-- --:--:-- --:--:--  152k
+{"id":"PLTpkq4velDI","time":1790137201,"expires":1790180401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   118k  21998 --:--:-- --:--:-- --:--:--  152k
+{"id":"FYj9rAxrls7g","time":1790137501,"expires":1790180701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   146k  27303 --:--:-- --:--:-- --:--:--  152k
+{"id":"dBkMJYMYonao","time":1790137801,"expires":1790181001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   116k  21739 --:--:-- --:--:-- --:--:--  152k
+{"id":"nwRJFKIHucRS","time":1790138101,"expires":1790181301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   100k  18720 --:--:-- --:--:-- --:--:--  152k
+{"id":"GN632ScppkTl","time":1790138401,"expires":1790181601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  94691  17216 --:--:-- --:--:-- --:--:--  152k
+{"id":"LyEqbbjjQbVl","time":1790138701,"expires":1790181901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  13178   2396 --:--:-- --:--:-- --:--:-- 17333
+{"id":"7cd4xhDTKzvw","time":1790139001,"expires":1790182201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  23550   4281 --:--:-- --:--:-- --:--:-- 31200
+{"id":"uSKgts53avfy","time":1790139301,"expires":1790182501,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923065817
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   103k  19230 --:--:-- --:--:-- --:--:--  152k
+{"id":"EhPwcCx4NoHj","time":1790139601,"expires":1790182801,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923065817
+20260923102749
+20260923102749 4.017954141322009 NXL_1000|xbarb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   204  100   157  100    47   159k  48805 --:--:-- --:--:-- --:--:--  199k
+{"id":"dxrmqBfwZDdN","time":1790139901,"expires":1790183101,"event":"message","topic":"xbarb","message":"20260923102749\t4.017954141322009\tNXL_1000|xbarb"}
+20260923102749
+20260923102749
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  42621   7749 --:--:-- --:--:-- --:--:-- 52000
+{"id":"6ORwW97J6FId","time":1790140201,"expires":1790183401,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923102749
+20260923102749
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  93352  16973 --:--:-- --:--:-- --:--:--  152k
+{"id":"l28rP7uyOCNW","time":1790140501,"expires":1790183701,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923102749
+20260923102749
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   121k  22577 --:--:-- --:--:-- --:--:--  152k
+{"id":"5uliXSgGxuy9","time":1790140801,"expires":1790184001,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923102749
+20260923102749
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   105k  19704 --:--:-- --:--:-- --:--:--  152k
+{"id":"cI13v9VPpZci","time":1790141101,"expires":1790184301,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923102749
+20260923102749
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   100k  18764 --:--:-- --:--:-- --:--:--  152k
+{"id":"DfgvkKg2Qvtw","time":1790141401,"expires":1790184601,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923102749
+20260923102749
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24   108k  20270 --:--:-- --:--:-- --:--:--  152k
+{"id":"C0cZxF1eS7kR","time":1790141701,"expires":1790184901,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923102749
+20260923102749
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   156  100   132  100    24  81330  14787 --:--:-- --:--:-- --:--:--  152k
+{"id":"Zq8KRRqswb1s","time":1790142001,"expires":1790185201,"event":"message","topic":"xbarb","message":"No new data for NXL_1000"}
+20260923102749
+20260923102749
+20260923102749
+20260923102749
+20260923102749
+20260923102749
+20260923102749
+20260923102749
+20260923102749
+20260923112647
+20260923112647 4.02 NXL_1000|xbarb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   178  100   144  100    34   141k  34274 --:--:-- --:--:-- --:--:--  173k
+{"id":"93B1lNeZOaOV","time":1790143501,"expires":1790186701,"event":"message","topic":"xbarb","message":"20260923112647\t4.02\tNXL_1000|xbarb"}
+20260923112647
+20260923112647
